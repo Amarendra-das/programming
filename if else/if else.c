@@ -1,4 +1,5 @@
 #include <stdio.h>
+//if else statement
 int main () {
     int cp;
     printf("enter cost price :");
